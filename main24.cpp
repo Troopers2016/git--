@@ -5,6 +5,7 @@
 using namespace std;
 int main()
 {
+	//прикол
 	/*SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 	srand(time(0));
